@@ -1,0 +1,239 @@
+.background {
+  background-color: red;
+}
+
+.root {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  /* background-image: url("https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ce02/4949/b98edd4c172c1467ee5629b2a327a267"); */
+  /* background-color: webkit-radial-gradient(
+    bottom right,
+    ellipse farthest-corner,
+    #091a22 0%,
+    #3797c7 100%
+  ); */
+  /* background-color: #091a22;
+  background: -moz-linear-gradient(bottom, #091a22 30%, #3797c7 70%);
+  background: -o-linear-gradient(bottom, #091a22 30%, #3797c7 70%);
+  background: -ms-linear-gradient(bottom, #091a22 30%, #3797c7 70%);
+  background: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.3, #091a22),
+    color-stop(0.7, #3797c7)
+  ); */
+  background: -moz-radial-gradient(
+    bottom right,
+    ellipse farthest-corner,
+    #3797c7 0%,
+    #091a22 80%
+  );
+  background: -o-radial-gradient(
+    bottom right,
+    ellipse farthest-corner,
+    #3797c7 0%,
+    #091a22 80%
+  );
+  background: -ms-radial-gradient(
+    bottom right,
+    ellipse farthest-corner,
+    #3797c7 0%,
+    #091a22 80%
+  );
+  background: -webkit-radial-gradient(
+    bottom right,
+    ellipse farthest-corner,
+    #3797c7 0%,
+    #091a22 80%
+  );
+}
+.header {
+  height: 164px;
+  left: 84px;
+  top: 218px;
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  width: 300px;
+  height: 150px;
+}
+.menu {
+  color: red;
+  padding-right: 50px;
+  display: flex;
+}
+.nhietdo {
+  padding-right: 20px;
+}
+.menu1 {
+}
+.body {
+  left: 84px;
+  top: 218px;
+  display: flex;
+  align-items: center;
+}
+.hinhmua {
+  height: 140px;
+  width: 140px;
+  padding-left: 20px;
+}
+.doC {
+  color: white;
+  font-size: 80px;
+  padding-left: 20px;
+}
+.doC1 {
+  width: 260px;
+  font-size: 24px;
+  color: white;
+  padding-left: 20px;
+}
+.search {
+  margin-left: 50px;
+}
+.country {
+  font-size: 18px;
+  padding-left: 20px;
+  color: white;
+  width: 450px;
+  height: 25px;
+  background-color: rgba(255, 244, 244, 0.2);
+  border-radius: 20px;
+  border-color: rgba(255, 244, 244, 0.2);
+
+  padding-right: 25px;
+}
+.Groupthu {
+  background-color: rgba(255, 255, 255, 0.02);
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20px;
+  padding-top: 40px;
+  border-radius: 20px;
+  width: 100%;
+  margin-right: 30px;
+}
+.Mon {
+  color: rgba(255, 255, 255, 1);
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  padding-right: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.rain {
+  width: 95px;
+  height: 95px;
+  padding-left: 25px;
+  padding-bottom: 20px;
+}
+.nhietdo1 {
+  width: 140px;
+  padding-left: 25px;
+  display: flex;
+}
+.nhietdo2 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.nhietdo3 {
+  color: rgba(255, 255, 255, 1);
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-left: 18px;
+}
+
+.Tus {
+  color: rgba(255, 255, 255, 1);
+
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.Wedto {
+  height: 250px;
+  padding-left: 10px;
+}
+.Wed {
+  color: rgba(255, 255, 255, 1);
+
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.Thuto {
+  height: 250px;
+  padding-left: 30px;
+}
+.Thu {
+  color: rgba(255, 255, 255, 1);
+
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.Frito {
+  height: 250px;
+  padding-left: 30px;
+}
+.Fri {
+  color: rgba(255, 255, 255, 1);
+
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.Satto {
+  height: 250px;
+  padding-left: 30px;
+}
+.Sat {
+  color: rgba(255, 255, 255, 1);
+
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.Sunto {
+  height: 250px;
+  padding-left: 30px;
+}
+.Sun {
+  color: rgba(255, 255, 255, 1);
+
+  font-size: 24px;
+  font-family: Cabin, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.line {
+  margin-left: 30px;
+  margin-right: 30px;
+  color: aliceblue;
+  margin-top: 30px;
+}
